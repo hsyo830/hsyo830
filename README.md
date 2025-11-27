@@ -58,15 +58,6 @@
 
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/hsyo830/hsyo830/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
@@ -81,7 +72,6 @@
 
 - 📘 **개발 블로그**: https://hwangseoyoung.tistory.com/  
 - 📌 공부 기록 · 프로젝트 · 개발 노트 업데이트 중  
-- ✨ 신입 프론트엔드 개발자로 성장 중!
 
 ---
 
