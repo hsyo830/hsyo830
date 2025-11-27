@@ -10,12 +10,11 @@
 ## 🌷 About Me
 
 - 🔭 현재 **Frontend Development** 공부 중
-- 🎯 React & TypeScript 기반으로 실력 쌓는 중
+- 🎯 React 기반 포트폴리오 제작
 - ✏ 꾸준히 기록하고 성장하는 개발자
-- 🧩 알고리즘도 함께 공부하며 사고력 확장 중
+- 🧩 알고리즘도 함께 공부하며 학습 병행
 
 📚 **Blog**: https://hwangseoyoung.tistory.com  
-✉ Email: (원하면 추가해줄게!)
 
 ---
 
