@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Frontend Developer in Progress</strong> <br/>
-  React · TypeScript · JavaScript · UI/UX Lover
+  React · TypeScript · JavaScript · UI/UX
 </p>
 
 ---
