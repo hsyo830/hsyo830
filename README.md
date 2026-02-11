@@ -38,10 +38,3 @@ Frontend Developer · React · TypeScript
 <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat-square"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=fff&style=flat-square"/>
 
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hsyo830&show_icons=true" height="160"/>
-</div>
