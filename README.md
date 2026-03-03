@@ -15,7 +15,7 @@ Frontend Developer · React · TypeScript
 📚 Blog: https://hwangseoyoung.tistory.com
 
 📊 Algorithm
-- Programmers: 159 solved
+- Programmers: 161 solved
 
 ---
 
