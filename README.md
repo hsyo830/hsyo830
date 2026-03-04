@@ -14,9 +14,6 @@ Frontend Developer · React · TypeScript
 
 📚 Blog: https://hwangseoyoung.tistory.com
 
-📊 Algorithm
-- Programmers: 163 solved
-
 ---
 
 ## Tech Stack
@@ -38,3 +35,7 @@ Frontend Developer · React · TypeScript
 <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat-square"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=fff&style=flat-square"/>
 
+---
+
+## Algorithm (Programmers)
+![Programmers Badge](https://raw.githubusercontent.com/hsyo830/Programmers_Badge_Generator/main/result/result.svg)
