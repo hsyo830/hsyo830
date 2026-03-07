@@ -25,6 +25,7 @@ Frontend Developer · React · TypeScript
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square"/>
 <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat-square"/>
 <img src="https://img.shields.io/badge/Emotion-DB7093?logo=emotion&logoColor=fff&style=flat-square"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square"/>
 <img src="https://img.shields.io/badge/CSS%20Modules-000000?logo=css3&logoColor=white&style=flat-square"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square"/>
