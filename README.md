@@ -8,7 +8,7 @@ Frontend Developer · React · TypeScript
 
 ## About
 
-- React / TypeScript 기반 프론트엔드 개발 학습 중
+- Next.js / React / TypeScript 기반 프론트엔드 개발 학습 중
 - 개인 프로젝트 및 포트폴리오 제작
 - UI/UX와 사용자 경험을 중요하게 생각합니다
 
