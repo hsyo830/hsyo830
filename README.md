@@ -1,7 +1,7 @@
 <h1 align="center">Seoyoung's GitHub</h1>
 
 <p align="center">
-Frontend Developer · Next.js · React · TypeScript
+Frontend Developer · Next.js · React · TypeScript 
 </p>
 
 ---
